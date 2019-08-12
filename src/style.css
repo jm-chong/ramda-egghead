@@ -1,0 +1,14 @@
+#sample {
+  width: 100px;
+  height: 35px;
+  border: solid 1px black;
+  position: absolute;
+}
+
+#sample2 {
+  width: 100px;
+  height: 35px;
+  border: solid 1px black;
+  position: absolute;
+  top: 100px;
+}
